@@ -95,8 +95,8 @@ or you can press br tag in markdown
 
 <!-- To do list -->
 
--[] study Japanese  
--[x] Study Markdown  
--[x] stduy JavaScript  
--[] stduy React  
--[] study Vue JS
+- [] study Japanese  
+- [x] Study Markdown  
+- [x] stduy JavaScript  
+- [] stduy React  
+- [] study Vue JS
