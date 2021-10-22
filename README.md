@@ -55,6 +55,10 @@ Check this out! Click [here](https://github.com/topgun0415)
 ## The programming language that I learn!
 
 ![React](https://user-images.githubusercontent.com/82861521/138425351-5c4a65a2-4299-4356-95ae-2f54cef01d7b.jpeg)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6829d4386e9dbe2b18a9f8b15b06dd3094088885
 
 <!-- !를 붙이면 바로 마크다운에서 보여지는 형식임 -->
 
@@ -94,8 +98,15 @@ or you can press br tag in markdown
 
 <!-- To do list -->
 
+<<<<<<< HEAD
 - [ ] study Japanese
 - [x] Study Markdown
 - [x] stduy JavaScript
 - [ ] stduy React
 - [ ] study Vue JS
+=======
+- [ ] study Japanese  
+- [x] Study Markdown  
+- [x] stduy JavaScript  
+- [ ] stduy React  
+>>>>>>> 6829d4386e9dbe2b18a9f8b15b06dd3094088885
