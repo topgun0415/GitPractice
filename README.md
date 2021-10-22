@@ -54,7 +54,8 @@ Check this out! Click [here](https://github.com/topgun0415)
 
 ## The programming language that I learn!
 
-![React](https://calvinsnax.com/files/attach/images/141/842/043/42478d6aab38d7980195b55411e44310.png)
+![React](https://user-images.githubusercontent.com/82861521/138425351-5c4a65a2-4299-4356-95ae-2f54cef01d7b.jpeg)
+
 
 <!-- !를 붙이면 바로 마크다운에서 보여지는 형식임 -->
 
