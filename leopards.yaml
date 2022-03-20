@@ -4,7 +4,11 @@ team: Leopards
 
 manager: Nora
 
+<<<<<<< HEAD
 coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> d379530 (Eidt Leopards)
 
 members:
   - Olivia
